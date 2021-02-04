@@ -50,8 +50,8 @@ It seems like a good name for a project that:
 
 ## Attribution
 
-The conversion is the work of F. Mambrini, though (at least at the moment)  
-no manual post-processing or modifications was performed on the output of the 
+The conversion is the work of F. Mambrini, though (at least at the moment) 
+no manual post-processing or editing was performed on the output of the 
 conversion scripts.
 
 For the original annotations of the souce projects, see the `README` file in each 
