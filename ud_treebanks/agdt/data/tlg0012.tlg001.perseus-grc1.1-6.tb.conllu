@@ -69,8 +69,8 @@
 1	Λητοῦς	Λητώ	PROPN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	Ref=1.9
 2	καὶ	καί	CCONJ	c--------	_	3	cc	3:cc	Ref=1.9
 3	Διὸς	Ζεύς	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	conj	1:conj	Ref=1.9
-4	υἱός	υἱός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0.1:root|0.1:nsubj	Ref=1.9|SpaceAfter=No
-5	·	·	PUNCT	u--------	_	4	punct	0:punct	Ref=1.9
+4	υἱός	υἱός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0.1:nsubj	Ref=1.9|SpaceAfter=No
+5	·	·	PUNCT	u--------	_	4	punct	4:punct	Ref=1.9
 
 # sent_id = 2274109
 # text = ὃ γὰρ βασιλῆϊ χολωθεὶς νοῦσον ἀνὰ στρατὸν ὄρσε κακήν, ὀλέκοντο δὲ λαοί, οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα Ἀτρεΐδης·
